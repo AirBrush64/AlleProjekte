@@ -1,1 +1,1 @@
-Alle Projekte und Sonstiger Code
+Alle Projekte, Sonstiger Code und UML- Diagramme
