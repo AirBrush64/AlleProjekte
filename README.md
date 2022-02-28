@@ -1,2 +1,1 @@
-# AlleProjekte
-Alle Java Projekte
+Alle Projekte und Sonstiger Code
